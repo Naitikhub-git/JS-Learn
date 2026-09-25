@@ -17,3 +17,6 @@ console.log(sentence);
 //esacpe charaters
 let c1='bana\'na'
 console.log(c1)
+
+let c2="bana\"na"
+console.log(c2)
